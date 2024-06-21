@@ -1,0 +1,4 @@
+/home/divya/Desktop/cpp-training/basics/tasks/factorial/build/CMakeFiles/rebuild_cache.dir
+/home/divya/Desktop/cpp-training/basics/tasks/factorial/build/CMakeFiles/edit_cache.dir
+/home/divya/Desktop/cpp-training/basics/tasks/factorial/build/CMakeFiles/solution_test.dir
+/home/divya/Desktop/cpp-training/basics/tasks/factorial/build/CMakeFiles/main.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/solution.h
+iostream
+-
+
+/home/divya/Desktop/cpp-training/basics/tasks/rectangle-2/solution_test.cpp
+solution.h
+-
+gtest/gtest.h
+-
+sstream
+-
+iostream
+-
+

@@ -1,0 +1,4 @@
+/home/divya/Desktop/cpp-training/basics/tasks/rectangle-2/build/CMakeFiles/rebuild_cache.dir
+/home/divya/Desktop/cpp-training/basics/tasks/rectangle-2/build/CMakeFiles/edit_cache.dir
+/home/divya/Desktop/cpp-training/basics/tasks/rectangle-2/build/CMakeFiles/solution_test.dir
+/home/divya/Desktop/cpp-training/basics/tasks/rectangle-2/build/CMakeFiles/main.dir
