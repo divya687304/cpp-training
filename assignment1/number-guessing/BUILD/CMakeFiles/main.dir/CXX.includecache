@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/solution.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+
+/home/divya/Desktop/cpp-training/basics/tasks/number-guessing/main.cpp
+solution.h
+-
+
