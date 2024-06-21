@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/divya/Desktop/cpp-training/error-handling/tasks/dangerous-exceptions/account.h
+stdexcept
+-
+
+/home/divya/Desktop/cpp-training/error-handling/tasks/dangerous-exceptions/solution.h
+account.h
+/home/divya/Desktop/cpp-training/error-handling/tasks/dangerous-exceptions/account.h
+string
+-
+iostream
+-
+
+/home/divya/Desktop/cpp-training/error-handling/tasks/dangerous-exceptions/solution_test.cpp
+solution.h
+/home/divya/Desktop/cpp-training/error-handling/tasks/dangerous-exceptions/solution.h
+gtest/gtest.h
+-
+
