@@ -1,0 +1,4 @@
+/home/divya/Desktop/cpp-training/error-handling/tasks/optional/build/CMakeFiles/rebuild_cache.dir
+/home/divya/Desktop/cpp-training/error-handling/tasks/optional/build/CMakeFiles/edit_cache.dir
+/home/divya/Desktop/cpp-training/error-handling/tasks/optional/build/CMakeFiles/solution_test.dir
+/home/divya/Desktop/cpp-training/error-handling/tasks/optional/build/CMakeFiles/main.dir

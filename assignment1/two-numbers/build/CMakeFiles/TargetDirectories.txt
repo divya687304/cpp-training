@@ -1,0 +1,4 @@
+/home/divya/Desktop/cpp-training/basics/tasks/two-numbers/build/CMakeFiles/rebuild_cache.dir
+/home/divya/Desktop/cpp-training/basics/tasks/two-numbers/build/CMakeFiles/edit_cache.dir
+/home/divya/Desktop/cpp-training/basics/tasks/two-numbers/build/CMakeFiles/solution_test.dir
+/home/divya/Desktop/cpp-training/basics/tasks/two-numbers/build/CMakeFiles/main.dir

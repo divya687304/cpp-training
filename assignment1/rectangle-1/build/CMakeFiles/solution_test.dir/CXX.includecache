@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/solution.h
+
+/home/divya/Desktop/cpp-training/basics/tasks/rectangle-1/solution_test.cpp
+solution.h
+-
+gtest/gtest.h
+-
+

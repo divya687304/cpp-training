@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello_world.h
+iostream
+-
+string
+-
+
+/home/divya/Desktop/cpp-training/basics/tasks/hello-world/main.cpp
+hello_world.h
+-
+
